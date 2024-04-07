@@ -1,6 +1,7 @@
 {
-  "name": "Item Parser Plugin",
-  "author": "Ponibolezney",
-  "description": "Plugin for parsing loot drops and adding items to game database",
-  "repo_url": "https://github.com/YOUR_USERNAME/item-parser-plugin"
+  "id": "Extension-ItemParser",
+  "type": "extension",
+  "name": "RPG Item Parser",
+  "description": "Tries to parse items and put them into db used for RPG",
+  "url": "https://github.com/ponibolezney/item-parser-plugin"
 }
