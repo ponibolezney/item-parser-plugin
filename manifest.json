@@ -1,0 +1,6 @@
+{
+  "name": "Item Parser Plugin",
+  "author": "Ponibolezney",
+  "description": "Plugin for parsing loot drops and adding items to game database",
+  "repo_url": "https://github.com/YOUR_USERNAME/item-parser-plugin"
+}
